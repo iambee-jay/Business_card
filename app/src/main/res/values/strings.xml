@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business_Card</string>
+    <string name="full_name">Bolaji Ayodele</string>
+    <string name="title">Software Developer</string>
+    <string name="phone_number">123-456-7890</string>
+    <string name="email">a.bolaji465@mybvc.ca</string>
+    <string name="social">social@mysocial.com</string>
+</resources>
